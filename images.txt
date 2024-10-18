@@ -21,7 +21,7 @@ registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.17.3
 kubesphere/s2ioperator:v2.1.1
 kubesphere/jenkins-uc:v2.1.1
 alpine:3.10.4
-quay.io/openebs/provisioner-localpv:1.5.0
+# quay.io/openebs/provisioner-localpv:1.5.0
 quay.io/openebs/admission-server:1.5.0
 quay.io/openebs/m-apiserver:1.5.0
 quay.io/openebs/node-disk-operator-amd64:v0.4.5
