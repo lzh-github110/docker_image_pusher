@@ -48,7 +48,7 @@ minio/minio:RELEASE.2019-08-07T01-59-21Z
 kubesphere/kube-state-metrics:v1.7.2
 jenkins/jenkins:2.176.2
 kubesphere/node-exporter:ks-v0.16.0
-quay.io/coreos/flannel:v0.11.0-amd64
+# quay.io/coreos/flannel:v0.11.0-amd64
 kubesphere/kube-rbac-proxy:v0.4.1
 kubesphere/addon-resizer:1.8.4
 siriuszg/nginx-ingress-controller:0.20.0
