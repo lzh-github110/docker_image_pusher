@@ -66,7 +66,7 @@
 
 # KubeSphere 可能需要的所有 Docker 镜像列表
 #kubesphere/kubekey:v1.0.0
-kubesphere/kube-apiserver:v1.21.0
+#kubesphere/kube-apiserver:v1.21.0
 kubesphere/kube-controller-manager:v1.21.0
 kubesphere/kube-scheduler:v1.21.0
 kubesphere/kube-proxy:v1.21.0
