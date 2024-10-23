@@ -91,7 +91,7 @@ quay.io/coreos/flannel:v0.13.0-amd64
 istio/proxyv2:1.8.2
 istio/pilot:1.8.2
 #istio/citadel:1.8.2
-java:openjdk-8-jre-alpine
+openjdk:8-jre
 istio/galley:1.8.2
 istio/kiali:1.33.0
 jenkins/jenkins:lts
