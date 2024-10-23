@@ -70,7 +70,7 @@ kubesphere/kube-controller-manager:v1.21.0
 kubesphere/kube-scheduler:v1.21.0
 kubesphere/kube-proxy:v1.21.0
 #kubesphere/kubelet:v1.21.0
-kubesphere/kubeadm:v1.21.0
+#kubesphere/kubeadm:v1.21.0
 #quay.io/coreos/etcd:v3.4.13
 #mysql:5.7
 #mysql:8.0
