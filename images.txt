@@ -90,10 +90,10 @@
 quay.io/coreos/flannel:v0.13.0-amd64
 istio/proxyv2:1.8.2
 istio/pilot:1.8.2
-#istio/citadel:1.8.2
+#istio/citadel:1.8.2 #拉不到
 openjdk:8-jre
-#istio/galley:1.8.2
-istio/kiali:1.33.0
+#istio/galley:1.8.2 #拉不到
+#istio/kiali:1.33.0 #拉不到
 jenkins/jenkins:lts
 #gitlab/gitlab-runner:latest
 #nginx/nginx-ingress-controller:0.35.0
