@@ -92,7 +92,7 @@ istio/proxyv2:1.8.2
 istio/pilot:1.8.2
 #istio/citadel:1.8.2
 openjdk:8-jre
-istio/galley:1.8.2
+#istio/galley:1.8.2
 istio/kiali:1.33.0
 jenkins/jenkins:lts
 #gitlab/gitlab-runner:latest
