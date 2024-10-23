@@ -82,18 +82,18 @@
 #grafana/grafana:7.3.7
 #elasticsearch:7.10.2 #拉不到
 #fluent/fluentd:v1.11.2-debian #拉不到
-grafana/loki:2.2.1
-grafana/promtail:2.2.1
-calico/node:v3.17.1
-calico/cni:v3.17.1
-calico/kube-controllers:v3.17.1
-#quay.io/coreos/flannel:v0.13.0-amd64
-#istio/proxyv2:1.8.2
-#istio/pilot:1.8.2
-#istio/citadel:1.8.2
-#istio/galley:1.8.2
-#istio/kiali:1.33.0
-#jenkins/jenkins:lts
+#grafana/loki:2.2.1
+#grafana/promtail:2.2.1
+#calico/node:v3.17.1
+#calico/cni:v3.17.1
+#calico/kube-controllers:v3.17.1
+quay.io/coreos/flannel:v0.13.0-amd64
+istio/proxyv2:1.8.2
+istio/pilot:1.8.2
+istio/citadel:1.8.2
+istio/galley:1.8.2
+istio/kiali:1.33.0
+jenkins/jenkins:lts
 #gitlab/gitlab-runner:latest
 #nginx/nginx-ingress-controller:0.35.0
 #goharbor/harbor-core:v2.2.0
