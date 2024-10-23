@@ -66,16 +66,16 @@
 
 # KubeSphere 可能需要的所有 Docker 镜像列表
 #kubesphere/kube-apiserver:v1.21.0
-kubesphere/kube-controller-manager:v1.21.0
-kubesphere/kube-scheduler:v1.21.0
-kubesphere/kube-proxy:v1.21.0
+#kubesphere/kube-controller-manager:v1.21.0
+#kubesphere/kube-scheduler:v1.21.0
+#kubesphere/kube-proxy:v1.21.0
 #kubesphere/kubelet:v1.21.0
 #kubesphere/kubeadm:v1.21.0
-#quay.io/coreos/etcd:v3.4.13
-#mysql:5.7
+quay.io/coreos/etcd:v3.4.13
+mysql:5.7
 #mysql:8.0
-#postgres:11.5
-#mongo:4.0.10
+postgres:11.5
+mongo:4.0.10
 #prom/prometheus:v2.22.0
 #prom/node-exporter:v1.0.1
 #prom/alertmanager:v0.22.2
