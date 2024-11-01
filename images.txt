@@ -122,4 +122,5 @@
 #elasticsearch:7.4.2
 #kibana:7.4.2
 #rabbitmq:management
-nacos/nacos-server:1.1.4
+#nacos/nacos-server:1.1.4
+openzipkin/zipkin
