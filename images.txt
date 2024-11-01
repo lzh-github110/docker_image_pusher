@@ -119,4 +119,5 @@
 #kubesphere/notification:v3.2.0
 
 #redis:5.0.7
-elasticsearch:7.4.2
+#elasticsearch:7.4.2
+kibana:7.4.2
