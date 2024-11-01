@@ -123,4 +123,4 @@
 #kibana:7.4.2
 #rabbitmq:management
 #nacos/nacos-server:1.1.4
-openzipkin/zipkin
+openzipkin/zipkin:2.20.1
