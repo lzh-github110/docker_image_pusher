@@ -125,4 +125,5 @@
 #nacos/nacos-server:1.1.4
 #openzipkin/zipkin:2.20.1
 #bladex/sentinel-dashboard:1.6.3
-jenkins/jnlp-slave:3.27-1
+#jenkins/jnlp-slave:3.27-1
+kubesphere/builder-maven:v2.1.0
