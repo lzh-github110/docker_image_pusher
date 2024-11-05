@@ -127,4 +127,5 @@
 #bladex/sentinel-dashboard:1.6.3
 #jenkins/jnlp-slave:3.27-1
 #kubesphere/builder-maven:v2.1.0
-kubesphere/alerting-dbinit:v2.1.0
+#kubesphere/alerting-dbinit:v2.1.0
+java:8
