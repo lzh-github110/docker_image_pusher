@@ -130,4 +130,5 @@
 #kubesphere/alerting-dbinit:v2.1.0
 #williamyeh/java8
 #java:8
-kubesphere/nginx-ingress-controller:0.24.1
+#kubesphere/nginx-ingress-controller:0.24.1
+openzipkin/zipkin
