@@ -131,4 +131,4 @@
 #williamyeh/java8
 #java:8
 #kubesphere/nginx-ingress-controller:0.24.1
-openzipkin/zipkin
+bladex/sentinel-dashboard
